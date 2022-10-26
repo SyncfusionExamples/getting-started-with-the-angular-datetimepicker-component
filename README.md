@@ -1,6 +1,6 @@
 # Getting Started with the Angular DateTime Picker Component
 
-The [ASP.NET MVC DateTime Picker](https://www.syncfusion.com/angular-components/angular-datetime-picker) is a lightweight and mobile-friendly control that allows end users to enter or select date and time values from a pop-up calendar and drop-down time list.A quick-start project that shows how to add the Syncfusion Angular DateTime Picker component to an Angular project. This project contains simple code customization, as well as some important features like setting specific date values, formatting, placeholder, range restrictions, and mask support.
+The [Angular DateTime Picker](https://www.syncfusion.com/angular-components/angular-datetime-picker) is a lightweight and mobile-friendly control that allows end users to enter or select date and time values from a pop-up calendar and drop-down time list.A quick-start project that shows how to add the Syncfusion Angular DateTime Picker component to an Angular project. This project contains simple code customization, as well as some important features like setting specific date values, formatting, placeholder, range restrictions, and mask support.
 
 ## Project prerequisites
 
